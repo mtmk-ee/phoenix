@@ -1,0 +1,22 @@
+
+* Add shadows
+* Fix lag
+* Add more guns
+  * Add ability to switch out guns that are available on the map
+* Add more levels
+* Add networking/multiplayer
+  * Add teams
+  * Add different game modes
+* Add font rendering
+  * Add menus
+    * Add button class
+    * Add settings/controls menu
+    * Add level select/join game menu
+  * Add script reload functionality
+  * Add HUD
+* Add level loading screen
+* Add sound engine (preferably not irrKlang)
+* Add player damage
+  * Add damage from falling
+  * Add damage from bullets
+* Stop game from crashing with bad scripts
